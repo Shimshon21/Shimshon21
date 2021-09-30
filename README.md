@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Computer Scinece student in his fourth yoear,.
+I like game development and currently learning Unity engine and developed three games by learing from Udemy course by GameDev.tv.
+
+Feel free to contribute if you want to or give any feedback.
+
+You can reach me as well in my linkdin profile <Href src = https://www.linkedin.com/in/shimshon-polak />
