@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Computer Scinece student in his fourth yoear,.
+Computer Scinece student in his fourth year.
 I like game development and currently learning Unity engine and developed three games by learing from Udemy course by GameDev.tv.
 
 Feel free to contribute if you want to or give any feedback.
