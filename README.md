@@ -21,4 +21,4 @@ I like game development and currently learning Unity engine and developed three 
 
 Feel free to contribute if you want to or give any feedback.
 
-You can reach me as well in my linkdin profile <href src = https://www.linkedin.com/in/shimshon-polak />
+You can reach me as well in my linkdin profile [Link to Linkdin](https://www.linkedin.com/in/shimshon-polak)
