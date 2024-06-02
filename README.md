@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Computer Scinece student in his fourth year.
-I like game development and currently learning Unity engine and developed three games by learing from Udemy course by GameDev.tv.
-
-Feel free to contribute if you want to or give any feedback.
+Highly motivated developer with a passion for coding and a strong desire to learn and apply new technologies.
+Committed to delivering high-quality work, meeting goals, and maintaining clean and efficient code.
 
 You can reach me as well in my linkdin profile [shimshon-polak](https://www.linkedin.com/in/shimshon-polak)
